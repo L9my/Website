@@ -288,4 +288,11 @@ footer a:hover {
     #navigation {
         display: none;
     }
+    nav {
+        margin: 0 15px;
+    }
+    header {
+        top: 15px;
+        margin-top: 15px;
+    }
 }
