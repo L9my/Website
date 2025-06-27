@@ -282,10 +282,8 @@ footer a:hover {
         order: 6;
     }
     #navigation-dropdown {
-        display: block;
         display: flex;
         justify-content: space-between;
-        gap: 40%;
     }
     #navigation {
         display: none;
