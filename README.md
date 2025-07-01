@@ -1,5 +1,15 @@
 # Tasks
+add buttons for people that want to learn more about our solutions redirecting to solutions page
+complete the mission section
+bento with information on what we're building:
+- nice progress bar or small roadmap card
+- ai powered card
+- safety card (encryption, data privacy)
+- stuff stored in cloud card (data storage)
+- advanced functionality card (advanced features)
 
-FIX DROPDOWN LOGO PLACEMENT TO MATCH THE ONE ON NAVBAR
-add more info
+
+
+## Later Tasks
+add more info on landing page
 make other pages
